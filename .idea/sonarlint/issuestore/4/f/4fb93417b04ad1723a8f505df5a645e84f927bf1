@@ -1,0 +1,6 @@
+
+f
+java:S2095 "IUse try-with-resources or close this "MongoClient" in a "finally" clause.(Ê™’×8½‚ïĞà1
+T
+java:S1128"2Remove this unused import 'org.bson.BsonDocument'.(¡¾õÂùÿÿÿÿ8Æ‚ïĞà1
+psecrets:S6694"PMake sure this MongoDB database password gets changed and removed from the code.(¾òùˆ8¦û×Ğà1
